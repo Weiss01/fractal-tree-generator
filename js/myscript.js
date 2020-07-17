@@ -40,7 +40,7 @@ var sketch = function (p) {
     }
 
     p.draw = function () {
-        p.background(50);
+        p.background(5);
         p.stroke(255); // white borders
         p.translate(p.windowWidth / 2, p.height); // start tree at middle bottom
         p.branch(initialLength)
