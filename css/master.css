@@ -1,0 +1,24 @@
+.input-group {
+    margin: auto;
+    width: 35%;
+}
+
+.input-group-text {
+    width: 160px;
+}
+
+canvas {
+    margin: auto;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
