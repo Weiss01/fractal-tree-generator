@@ -1,4 +1,8 @@
 # fractal-tree-generator
+just messing around  with p5.js.
+
+totally go check this out at https://weiss01.github.io/fractal-tree-generator/
+
 A Fractal Tree Generator inspired by the coding train.
 
 # libraries used
